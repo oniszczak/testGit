@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonClicked(_ sender: UIButton) {
-        print("you finished! one more change zdsvdfgfncghmjgfhgsfsfsfgs")
+        print("you finished! one more change. 2")
     }
     
     @IBAction func butt2(_ sender: UIButton) {
