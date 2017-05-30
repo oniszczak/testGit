@@ -22,6 +22,10 @@ class ViewController: UIViewController {
     @IBAction func butt2(_ sender: UIButton) {
     }
     
+    @IBAction func button(_ sender: Any) {
+        print ("Hmmmmmmmm")
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
